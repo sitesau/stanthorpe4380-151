@@ -1,0 +1,22 @@
+{
+  "wheel_id": 683,
+  "structure": "umbrella",
+  "slug": "stanthorpe4380-151",
+  "project": "business-directory-stanthorpe-90f354af33ab827a154eaddd5448926ea",
+  "parent_t1_ref": "stanthorpe4380-009",
+  "node_role": "buffer",
+  "money_target": "stanthorpe4380.com.au",
+  "primary_kw": "business directory stanthorpe",
+  "intended_url": "https://aumedia.neocities.org/business-directory-stanthorpe-90f354af33ab827a154eaddd5448926ea/",
+  "tier": "T2",
+  "writeback_nonce": "f82f0fc91f2a24c4",
+  "links": [
+    {
+      "target_url": "https://business-directory-stanthorpe-stanthorpe4380-009-3098d2.gitlab.io/",
+      "anchor": "https://business-directory-stanthorpe-stanthorpe4380-009-3098d2.gitlab.io/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
